@@ -24,10 +24,10 @@ Entusiasta por tecnologia, estou focando meus estudos no desenvolvimento de apli
 
     
 ### 🚀 PROJETOS
-[Estudio de Dança](https://github.com/Gardium/Estudio-de-danca)
-[Otimizador de Base(Delphi)](https://github.com/Gardium/Otimizador_De_Bases_BeD_Sistemas)
-[Ecoleta - NLW](https://github.com/Gardium/Nlw-Ecoleta)
-[MaratonaDEV Doe](https://github.com/Gardium/MaratonaDEV-DOE)
+[Estudio de Dança](https://github.com/Gardium/Estudio-de-danca) <br/>
+[Otimizador de Base(Delphi)](https://github.com/Gardium/Otimizador_De_Bases_BeD_Sistemas)<br/>
+[Ecoleta - NLW](https://github.com/Gardium/Nlw-Ecoleta)<br/>
+[MaratonaDEV Doe](https://github.com/Gardium/MaratonaDEV-DOE)<br/>
 
 
 ### 📧 Entre em contato comigo:

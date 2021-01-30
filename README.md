@@ -1,4 +1,8 @@
-[![Estatísticas do GitHub de Edgard] (https://github-readme-stats.vercel.app/api ? Username = gardium )] (https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  
+[![Elian Becali's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 ### Olá pessoas 👋
 

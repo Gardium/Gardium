@@ -1,8 +1,4 @@
-<p align="center">
-  
-[![Elian Becali's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 
 ### Olá pessoas 👋
 
@@ -11,7 +7,11 @@ Apaixonado por tecnologia desde criança, m formei em Analise e Desenvolvimento 
 Entusiasta por tecnologia, estou focando meus estudos no desenvolvimento de aplicações WEB com NodeJs, React e React Native.
 
 
+<p align="center">
   
+[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 
 ### 💻 TECHS CONHECIDAS POR MIM
@@ -31,7 +31,7 @@ Entusiasta por tecnologia, estou focando meus estudos no desenvolvimento de apli
   [Estudio de Dança](https://github.com/Gardium/Estudio-de-danca) <br/><br/>
   [Otimizador de Base(Delphi)](https://github.com/Gardium/Otimizador_De_Bases_BeD_Sistemas)<br/><br/>
   [Ecoleta - NLW](https://github.com/Gardium/Nlw-Ecoleta)<br/><br/>
-  [MaratonaDEV Doe](https://github.com/Gardium/MaratonaDEV-DOE)<br/><br/>
+  [Doe - MaratonaDEV](https://github.com/Gardium/MaratonaDEV-DOE)<br/><br/>
 
 
 ### 📧 Entre em contato comigo:

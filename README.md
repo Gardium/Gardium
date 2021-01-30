@@ -3,13 +3,14 @@
 ### Olá pessoas 👋
 
 
-Apaixonado por tecnologia desde criança, m formei em Analise e Desenvolvimento de Sistemas. Atualmente trabalho com Sistemas de automação comercial.
+Apaixonado por tecnologia desde criança, me formei em Analise e Desenvolvimento de Sistemas. Atualmente trabalho com Sistemas de automação comercial.
 Entusiasta por tecnologia, estou focando meus estudos no desenvolvimento de aplicações WEB com NodeJs, React e React Native.
 
 
 <p align="center">
   
-[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/gardium/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/gardium/github-readme-stats)
 
 </p>
 

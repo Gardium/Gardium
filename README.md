@@ -9,8 +9,8 @@ Entusiasta por tecnologia, estou focando meus estudos no desenvolvimento de apli
 
 <p align="center">
   
-[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/gardium/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/gardium/github-readme-stats)
+[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories)
 
 </p>
 

@@ -1,4 +1,4 @@
-<img src="https://imgur.com/E9T1PiO.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador edgard">
+<img src="https://imgur.com/E9T1PiO.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador edgard">
 
 <p align="left">
   Olá meu nome é Edgard Araujo, sou desenvolvedor <strong>Full Stack</strong> e <strong>Analista de sistemas formado</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.

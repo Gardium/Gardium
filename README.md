@@ -29,10 +29,11 @@
 
 </p>
 
-<p align="center">
+<div display = flex>
   
-[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories)
 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories)
+[![Edgard Araujo's github stats](https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories)
+
+</div>
 

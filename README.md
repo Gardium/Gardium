@@ -33,7 +33,7 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=gardium&theme=radical&show_icons=true&icon_color=FF6555t&locale=pt-br&include_all_commits=true&count_private=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&locale=pt-br&include_all_commits=true&count_private=true&card_width=320&custom_title=Linguagens que mais utilizo " style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&locale=pt-br&include_all_commits=true&count_private=true&card_width=290&custom_title=Linguagens que mais utilizo " style="vertical-align: top;" />
       </div>
       
       

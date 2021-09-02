@@ -20,10 +20,10 @@
 
 <p align="left">
   <a href="https://www.instagram.com/eisouoed/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gardiuum/"/></a>
 
   <a href="https://www.linkedin.com/in/edgard-araujo-3a6950151/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgard-araujo/" /></a>
   
 
 
@@ -31,8 +31,9 @@
 
 
 
-
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gardium&show_icons=true&theme=dracula&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/Gardium?tab=repositories" />
-  </div>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gardium&theme=radical&show_icons=true&icon_color=FF6555t&locale=pt-br&include_all_commits=true&count_private=true" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardium&layout=compact&theme=radical&locale=pt-br&include_all_commits=true&count_private=true&card_width=320&custom_title=Linguagens que mais utilizo " style="vertical-align: top;" />
+      </div>
+      
+      
